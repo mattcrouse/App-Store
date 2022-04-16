@@ -54,8 +54,8 @@ b. Select by category: Button – will take user to different categories. Figure
 
 c. Select by rating: Button – will take user to select different ratings from 1-5 Figure 2
 
-#2
 d. Exit Application: Button – exit the program
+
 2. Choose Category: If user presses start by category then the program will display another
 frame with different categories of apps (Figure -1 #2). This window has one button widget
 for each category of apps. For example: in figure -1 #2 user selects Games and then the
