@@ -28,11 +28,17 @@ purchase for that category.
 then all the game apps will be loaded from the category_dict[‘Games’] from the class
 file
 8. For each apps, there will be some information that will be displayed to user.
+
 a. A check box to select the apps to purchase
+
 b. A label to show the name of the item
+
 c. A label to display the price
+
 d. A label to display user ratings
+
 e. A label to display category of the apps
+
 9. Once user selects item(s), and hits add to cart button then a subtotal label will appear.
 10. User can then have the option of choosing more apps/checkout.
 11. Checkout shows apps purchased, break-down of each apps and their information, tax
