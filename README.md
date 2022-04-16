@@ -10,31 +10,31 @@ throughout the course of the semester.
 # Program Structure:
 **1. Program starts by reading from an input file containing an id, apps name, price, user
 rating and category of each item. (code provided). The information are separated by
-comma and saved in a .csv file.**
+comma and saved in a .csv file.
 
 **2. Once read, an apps item will be created and saved to a dictionary ‘category_dict’ of
 apps per category. The key will be the category like: Games/Productivity etc. and the
-values will be the apps item object.**
+values will be the apps item object.
 
-3. The program needs to create one more dictionary ‘ratings_dict’ where the apps will be
+**3. The program needs to create one more dictionary ‘ratings_dict’ where the apps will be
 saved by ratings. Key will be ratings and the values in the dictionary will be the apps
 item object. The ratings are: 1, 2, 3, 4 and 5. So if an apps has a rating of 4.5 then it will
 be saved under key 4, if an apps has a ratings of 2.1 , then it will be saved under key 2.
 
-4. A testing code is provided to check the class file. You need to comment the testing code
+**4. A testing code is provided to check the class file. You need to comment the testing code
 once done checking the class file.
 
-5. The GUI file imports the class file and use the Item and SmartCart class information.
+**5. The GUI file imports the class file and use the Item and SmartCart class information.
 
-6. User has the option of ordering apps from different category or choose by apps ratings.
+**6. User has the option of ordering apps from different category or choose by apps ratings.
 Once user selects a category, s/he will be directed to the list of apps available to
 purchase for that category.
 
-7. Each list, loads the items from the corresponding category dict. If user selects Games,
+**7. Each list, loads the items from the corresponding category dict. If user selects Games,
 then all the game apps will be loaded from the category_dict[‘Games’] from the class
 file
 
-8. For each apps, there will be some information that will be displayed to user.**
+**8. For each apps, there will be some information that will be displayed to user.
 
 a. A check box to select the apps to purchase
 
