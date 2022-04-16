@@ -46,14 +46,16 @@ d. A label to display user ratings
 
 e. A label to display category of the apps
 
-9. Once user selects item(s), and hits add to cart button then a subtotal label will appear.
-10. User can then have the option of choosing more apps/checkout.
-11. Checkout shows apps purchased, break-down of each apps and their information, tax
-and total.
+**9. Once user selects item(s), and hits add to cart button then a subtotal label will appear.**
+
+**10. User can then have the option of choosing more apps/checkout.**
+
+**11. Checkout shows apps purchased, break-down of each apps and their information, tax
+and total.**
 
 # GUI Requirements:
-1. Welcome screen: This screen will be the first screen to display. It will contain following
-widgets:
+**1. Welcome screen: This screen will be the first screen to display. It will contain following
+widgets:**
 
 a. Welcome message: Label
 
@@ -63,11 +65,11 @@ c. Select by rating: Button – will take user to select different ratings from 
 
 d. Exit Application: Button – exit the program
 
-2. Choose Category: If user presses start by category then the program will display another
+**2. Choose Category: If user presses start by category then the program will display another
 frame with different categories of apps. This window has one button widget
 for each category of apps. Go Back: Button – will take to step 1 again. Selecting
 the category will take user to all the apps currently in the apps store. 
-This window contains the following widgets:
+This window contains the following widgets:**
 
 a. Name of the apps: check button – user selects which apps they want to buy
 
@@ -88,10 +90,10 @@ button
 
 h. Checkout: Button – After adding to cart, user can directly go to checkout window
 
-3. Choose by Ratings: If user presses start by ratings then the program will
+**3. Choose by Ratings: If user presses start by ratings then the program will
 display another frame with different apps with same ratings. This window has
 one button widget for each category of apps.
-This window contains the followingwidgets:
+This window contains the followingwidgets:**
 
 a. Name of the apps: check button – user selects which apps they want to buy
 
@@ -107,12 +109,12 @@ f. Select by category/rating: Buttons will take again to main menu
 
 g. Add to Cart: Button – Add selected items to cart
 
+h. Checkout: Button – After adding to cart, user can directly go to checkout window.
+
 i. Will display a current subtotal as label after selecting an app and pressing this
 button
 
-h. Checkout: Button – After adding to cart, user can directly go to checkout window.
-
-4. Checkout: Checkout window displays the summary of purchase with following widgets:
+**4. Checkout: Checkout window displays the summary of purchase with following widgets:**
 
 a. Your e-receipt: Label
 
