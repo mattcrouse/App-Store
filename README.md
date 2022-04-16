@@ -10,11 +10,11 @@ throughout the course of the semester.
 # Program Structure:
 **1. Program starts by reading from an input file containing an id, apps name, price, user
 rating and category of each item. (code provided). The information are separated by
-comma and saved in a .csv file. 
+comma and saved in a .csv file.**
 
-2. Once read, an apps item will be created and saved to a dictionary ‘category_dict’ of
+**2. Once read, an apps item will be created and saved to a dictionary ‘category_dict’ of
 apps per category. The key will be the category like: Games/Productivity etc. and the
-values will be the apps item object.
+values will be the apps item object.**
 
 3. The program needs to create one more dictionary ‘ratings_dict’ where the apps will be
 saved by ratings. Key will be ratings and the values in the dictionary will be the apps
