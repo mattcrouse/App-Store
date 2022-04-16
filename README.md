@@ -53,13 +53,22 @@ program will display all the game apps. Go Back: Button – will take to step 1 
 the category will take user to all the apps currently in the apps store. For example: Figure- 1
 #3 shows all the games available with ratings >=4.0 and <5.0. This window contains the
 following widgets:
+
 a. Name of the apps: check button – user selects which apps they want to buy
+
 b. Price of an apps: Label
+
 c. id: Label -id of an item
+
 d. User rating: label of the apps rating
+
 e. Category: Category of the apps.
+
 f. Select by category/rating: Buttons will take again to main menu (Figure-1, #1)
+
 g. Add to Cart: Button – Add selected items to cart
+
 i. Will display a current subtotal as label after selecting an app and pressing this
 button (Figure-1, #4)
+
 h. Checkout: Button – After adding to cart, user can directly go to checkout window
