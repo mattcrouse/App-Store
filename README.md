@@ -47,9 +47,13 @@ and total.
 # GUI Requirements:
 1. Welcome screen: This screen will be the first screen to display. It will contain following
 widgets:
+
 a. Welcome message: Label
+
 b. Select by category: Button – will take user to different categories. Figure 1, #2
+
 c. Select by rating: Button – will take user to select different ratings from 1-5 Figure 2
+
 #2
 d. Exit Application: Button – exit the program
 2. Choose Category: If user presses start by category then the program will display another
