@@ -1,13 +1,13 @@
 # App-Store
 This repository is an appstore created for my IT 209 final project.
 
-#Purpose:
+# Purpose:
 The purpose of this project was to demonstrate an acceptable
 level of expertise with the fundamental procedural and object-oriented concepts and Graphical
 User Interface (GUI) implementation techniques introduced and refined in the lectures and labs
 throughout the course of the semester.
 
-#Program Structure:
+# Program Structure:
 1. Program starts by reading from an input file containing an id, apps name, price, user
 rating and category of each item. (code provided). The information are separated by
 comma and saved in a .csv file.
@@ -38,7 +38,7 @@ e. A label to display category of the apps
 11. Checkout shows apps purchased, break-down of each apps and their information, tax
 and total.
 
-#GUI Requirements:
+# GUI Requirements:
 1. Welcome screen: This screen will be the first screen to display. It will contain following
 widgets:
 a. Welcome message: Label
