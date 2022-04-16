@@ -50,19 +50,17 @@ widgets:
 
 a. Welcome message: Label
 
-b. Select by category: Button – will take user to different categories. Figure 1, #2
+b. Select by category: Button – will take user to different categories.
 
-c. Select by rating: Button – will take user to select different ratings from 1-5 Figure 2
+c. Select by rating: Button – will take user to select different ratings from 1-5 
 
 d. Exit Application: Button – exit the program
 
 2. Choose Category: If user presses start by category then the program will display another
-frame with different categories of apps (Figure -1 #2). This window has one button widget
-for each category of apps. For example: in figure -1 #2 user selects Games and then the
-program will display all the game apps. Go Back: Button – will take to step 1 again. Selecting
-the category will take user to all the apps currently in the apps store. For example: Figure- 1
-#3 shows all the games available with ratings >=4.0 and <5.0. This window contains the
-following widgets:
+frame with different categories of apps. This window has one button widget
+for each category of apps. Go Back: Button – will take to step 1 again. Selecting
+the category will take user to all the apps currently in the apps store. 
+This window contains the following widgets:
 
 a. Name of the apps: check button – user selects which apps they want to buy
 
@@ -74,11 +72,11 @@ d. User rating: label of the apps rating
 
 e. Category: Category of the apps.
 
-f. Select by category/rating: Buttons will take again to main menu (Figure-1, #1)
+f. Select by category/rating: Buttons will take again to main menu
 
 g. Add to Cart: Button – Add selected items to cart
 
 i. Will display a current subtotal as label after selecting an app and pressing this
-button (Figure-1, #4)
+button
 
 h. Checkout: Button – After adding to cart, user can directly go to checkout window
