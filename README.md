@@ -8,7 +8,7 @@ User Interface (GUI) implementation techniques introduced and refined in the lec
 throughout the course of the semester.
 
 # Program Structure:
-1. Program starts by reading from an input file containing an id, apps name, price, user
+**1. Program starts by reading from an input file containing an id, apps name, price, user
 rating and category of each item. (code provided). The information are separated by
 comma and saved in a .csv file. 
 2. Once read, an apps item will be created and saved to a dictionary ‘category_dict’ of
@@ -27,7 +27,7 @@ purchase for that category.
 7. Each list, loads the items from the corresponding category dict. If user selects Games,
 then all the game apps will be loaded from the category_dict[‘Games’] from the class
 file
-8. For each apps, there will be some information that will be displayed to user.
+8. For each apps, there will be some information that will be displayed to user.**
 
 a. A check box to select the apps to purchase
 
